@@ -1,2 +1,2 @@
-<span style="white-space: pre-line">@Make all      : to compile standard fillit.</span>
-<span style="white-space: pre-line">@Make colored  : to compile colored version of fillit.</span>
+<p>Make all      : to compile standard fillit.
+  Make colored  : to compile colored version of fillit.</p>
